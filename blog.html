@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html id="html">
 
 <body onclick="playAudio()">
@@ -15,7 +15,7 @@
 
     </head>
 
-</body id=body>
+
 
 
 <div>
@@ -197,9 +197,9 @@
 
 
 
-    </section>
 
-</div>
+
+
 
 
 
@@ -217,7 +217,7 @@
 
 
 
-</div>
+
 
 
 
@@ -236,6 +236,5 @@
 
 
 
-</body>
 
-</html>
+
