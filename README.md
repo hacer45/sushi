@@ -23,7 +23,7 @@
     <header id="header">
         <h1 id="titulo"> un poco de mi yoli</h1>
         <p id="sub">
-            block dedicado mi solecito de oscuridad
+           pa ti
         </p>
     </header>
 
@@ -126,12 +126,13 @@
                 regresa) tu deberias verte como una persona que tiene demasiado valor, aunque no te gusta sabes que la
                 mayoria es verdad
                 <img src="img/susy7.jpeg" width="350" id="im" />
-                 </article>
+                 
             <p>
                 se tu misma y intenta no encerrarte en una capullo
             </p>
-        </article>
-        
+      
+         </article>
+         
         <article id="article">
             <h2 id="h2">
                 Avancez de mi solecito
