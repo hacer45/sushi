@@ -131,7 +131,7 @@
                 se tu misma y intenta no encerrarte en una capullo
             </p>
       
-         </article>
+        
          
         <article id="article">
             <h2 id="h2">
