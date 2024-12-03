@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html id="html">
 
 <body onclick="playAudio()">
@@ -15,7 +15,7 @@
 
     </head>
 
-</body id=body>
+
 
 
 <div>
@@ -126,10 +126,12 @@
                 regresa) tu deberias verte como una persona que tiene demasiado valor, aunque no te gusta sabes que la
                 mayoria es verdad
                 <img src="img/susy7.jpeg" width="350" id="im" />
+                 </article>
             <p>
                 se tu misma y intenta no encerrarte en una capullo
             </p>
         </article>
+        
         <article id="article">
             <h2 id="h2">
                 Avancez de mi solecito
@@ -254,9 +256,7 @@
 
 
 
-    </section>
-
-</div>
+   
 
 
 
@@ -270,11 +270,6 @@
 
 
 
-
-
-
-
-</div>
 
 
 
@@ -293,6 +288,3 @@
 
 
 
-</body>
-
-</html>
