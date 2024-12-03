@@ -23,7 +23,7 @@
     <header id="header">
         <h1 id="titulo"> un poco de mi yoli</h1>
         <p id="sub">
-           pa ti
+           
         </p>
     </header>
 
